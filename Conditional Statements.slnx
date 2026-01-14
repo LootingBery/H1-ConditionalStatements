@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="IfNumberIsEven/IfNumberIsEven.csproj" />
+  <Project Path="IfSortedAscending/IfSortedAscending.csproj" />
+  <Project Path="IfYearIsLeap/IfYearIsLeap.csproj" />
+  <Project Path="PositiveNegativeOrZero/PositiveNegativeOrZero.csproj" />
 </Solution>
